@@ -7,7 +7,7 @@ pip freeze > requirements.txt
 - Quindi la struttura delle cartelle sarà: 
 Cyberproject/           ← cartella principale del tuo progetto
 │
-├── venv/               ← il tuo virtualenv (non ci metti dentro il codice!)
+├── venv/               ← il nostro virtualenv (non mettere dentro il codice!)
 │
 ├── requirements.txt    ← elenco delle dipendenze, al livello del progetto
 │
